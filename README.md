@@ -1,8 +1,6 @@
-A simple blog created during Java/OOP course in university.
+A simple blog forked from https://github.com/AlexP11223/JavaSpringMvcBlog.
 
 Username/password auth, admin can add/edit/delete blog posts, users (after registration) can add comments, vote (+1/-1) for posts and comments.
-
-Can be useful for someone who is learning the techonologies/frameworks used here.
 
 The project is deployed here http://109.120.169.99:8080/blog, admin username/password — admin/pass123, the same password for other users, Alice/Bob/User1-5.
 
